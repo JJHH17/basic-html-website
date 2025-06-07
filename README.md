@@ -16,3 +16,4 @@ Project specifications can be found on: https://roadmap.sh/projects/basic-html-w
 # Acknowledgements
 - GitHub Logo: https://github.com/logos
 - LinkedIn Logo: https://brand.linkedin.com/downloads
+- Favicon Logo:
