@@ -12,3 +12,7 @@ Project specifications can be found on: https://roadmap.sh/projects/basic-html-w
 
 # Project requirements:
 - This project was built using only HTML, no dependencies are required.
+
+# Acknowledgements
+- GitHub Logo: https://github.com/logos
+- LinkedIn Logo: https://brand.linkedin.com/downloads
