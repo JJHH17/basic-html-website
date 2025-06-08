@@ -8,7 +8,7 @@ Project specifications can be found on: https://roadmap.sh/projects/basic-html-w
 - Contact page contains a form (without backend functionality).
 
 # How to access:
-- TODO: Link to GH pages deployment
+- This site can be accessed via: https://jjhh17.github.io/basic-html-website/
 
 # Project requirements:
 - This project was built using only HTML, no dependencies are required.
